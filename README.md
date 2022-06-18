@@ -1,0 +1,1 @@
+I'm going to make my own website, with blackjack and javascript!
